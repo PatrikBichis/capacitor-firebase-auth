@@ -4,7 +4,7 @@ import FirebaseCore
 import FirebaseAuth
 import GoogleSignIn
 
-
+/*
 class GoogleProviderHandler: NSObject, ProviderHandler, GIDSignInDelegate {
 
     var plugin: CapacitorFirebaseAuth? = nil
@@ -96,3 +96,4 @@ class GoogleProviderHandler: NSObject, ProviderHandler, GIDSignInDelegate {
         GIDSignIn.sharedInstance()?.signOut()
     }
 }
+*/
